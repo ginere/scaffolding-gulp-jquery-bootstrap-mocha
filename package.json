@@ -1,0 +1,19 @@
+{
+  "name": "scaffolding-gulp-jquery-bootstrap-mocha",
+  "version": "1.0.0",
+  "description": "This is am empty projects that uses the following tools: * Gulp * Boostrap * Fontawesome * Mocha, chai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha.git"
+  },
+  "author": "ginere.eu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha/issues"
+  },
+  "homepage": "https://github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha#readme"
+}
