@@ -8,10 +8,52 @@ This is am empty projects that uses the following tools:
 
 
 
-## GIT
+npm install --save-dev gulp
 
-git fetch
-git merge origin/master
+npm install --save-dev del
+npm install --save-dev jshint gulp-jshint
+
+npm install --save-dev gulp-if
+npm install --save-dev gulp-notify
+npm install --save-dev browser-sync 
+npm install --save-dev gulp-autoprefixer
+
+npm install --save-dev gulp-less
+npm install --save-dev gulp-sourcemaps
+npm install --save-dev gulp-clean-css
+npm install --save-dev less-plugin-autoprefix
+npm install --save-dev run-sequence
+npm install --save-dev gulp-ejs
+
+npm install --save-dev proxy-middleware
+npm install --save-dev gulp-util
+
+npm install --save-dev vinyl-source-stream vinyl-buffer watchify
+npm install --save-dev browserify-shim 
+npm install --save-dev brfs
+
+#
+# Project estructure and configuration
+#
+
+dist/ : The distributions folder
+app/ The application
+
+app/ejs/: Every thing here is parsed width ejs
+app/styles/
+
+
+# Preject dependencies
+npm install --save font-awesome
+npm install --save jquery
+npm install --save q
+npm install mustache --save
+npm install htmlclean --save
+
+
+
+## GIT
+see install.sh
     
 
 ```
