@@ -19,6 +19,7 @@ git clone https://github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha.git
 git add readme.md
 git commit -m "first commit"
 git push -u origin master
+git remote set-url origin https://ginere@github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha.git
 ```
     
 ...or create a new repository on the command line
