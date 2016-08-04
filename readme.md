@@ -8,7 +8,11 @@ This is am empty projects that uses the following tools:
 
 
 
-## Creation
+## GIT
+
+git fetch
+git merge origin/master
+    
 
 ```
 git clone https://github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha.git
