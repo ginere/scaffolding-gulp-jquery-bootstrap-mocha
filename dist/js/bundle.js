@@ -14,6 +14,7 @@ $( document ).ready(function() {
 
 	$("body").html("Hello real wolrd!");
 });
+
 },{"jquery":"/Users/ventura/projects/ginere-nodejs/scaffolding-gulp-jquery-bootstrap-mocha/node_modules/jquery/dist/jquery.js"}],"/Users/ventura/projects/ginere-nodejs/scaffolding-gulp-jquery-bootstrap-mocha/node_modules/jquery/dist/jquery.js":[function(require,module,exports){
 /*eslint-disable no-unused-vars*/
 /*!
