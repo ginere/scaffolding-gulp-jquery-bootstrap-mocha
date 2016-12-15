@@ -5,7 +5,8 @@
 'use strict';
 console.log("Loading file:app.js ...");
 
-var $=require("jquery");
+var $ = require('jquery');
+var Q = require('q');
 
 
 $( document ).ready(function() {

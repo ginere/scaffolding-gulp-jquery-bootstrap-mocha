@@ -43,7 +43,7 @@ app/ejs/: Every thing here is parsed width ejs
 app/styles/
 
 
-# Preject dependencies
+# Praject dependencies
 npm install --save font-awesome
 npm install --save jquery
 npm install --save q
@@ -80,3 +80,15 @@ git push -u origin master
 git remote add origin https://github.com/ginere/scaffolding-gulp-jquery-bootstrap-mocha.git
 git push -u origin master
 ```
+
+#
+# browserify-shim
+#
+
+Not using browserify-shim  ...
+
+"browserify-shim": {
+		"jquery": "global:$", 
+		"q": "global:q"
+	},
+
